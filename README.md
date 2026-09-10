@@ -1,13 +1,12 @@
 ### Hi there, I'm Aleksandr 👋
 
-I am currently a working embedded software developer. 
+Hi there! 👋
 
-For the past 10 years, I have been developing embedded systems for home appliances. 
-My latest project was an IoT No-Frost refrigerator.
+Welcome to my GitHub repository!
 
-However, in the near future, I would like to switch to web development using Python.
+Right now, I’m programming for fun — experimenting with different technologies, trying new approaches, and just enjoying the process. I’m still in IT, but in a different capacity now (I look at tasks from a slightly different angle).
 
-And now I'm actively studying technologies: Django, FastAPI, SQL and etc.
+You’ll find my pet projects, small experiments, code notes, and maybe some useful snippets here — everything that helps me stay a programmer.
 
 <!--
 **lattecoff/lattecoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
